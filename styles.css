@@ -1,0 +1,15 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 20px;
+}
+
+.container-section {
+    border: 2px solid turquoise;
+    width: 80vw;
+    height: auto;
+    margin: auto;
+    border-radius: 10px;
+    
+}
