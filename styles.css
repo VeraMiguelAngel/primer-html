@@ -7,9 +7,26 @@ body {
 
 .container-section {
     border: 2px solid turquoise;
-    width: 80vw;
+    width: 75vw;
     height: auto;
     margin: auto;
     border-radius: 10px;
     
+}
+
+#encabezado {
+  display: flex;
+  
+}
+
+#foto {
+  width: 10vw;
+  height: auto;
+  
+}
+
+#nombre {
+  display: flexbox;
+  margin: auto;
+  text-align: center;
 }
