@@ -10,23 +10,26 @@ body {
     width: 75vw;
     height: auto;
     margin: auto;
-    border-radius: 10px;
-    
+      
 }
 
 #encabezado {
   display: flex;
-  
+  background-color: cadetblue;
 }
 
 #foto {
   width: 10vw;
   height: auto;
-  
+  padding: 0.5em; 
 }
 
 #nombre {
-  display: flexbox;
   margin: auto;
   text-align: center;
+  font-size: larger;
+}
+
+#contactos {
+  display: flex; 
 }
