@@ -28,6 +28,7 @@ body {
   margin: auto;
   text-align: center;
   font-size: larger;
+  color: white;
 }
 
 #contactos {
@@ -43,9 +44,16 @@ body {
   
 }
 
-#edu-exp {
+.edu-exp {
   display: flex;
-  flex-direction: column;
+  width: 100%;
+  border: 1px solid turquoise;
+}
+
+.edu-exp-items {
+  width: 50%;
+  border: 1px solid turquoise;
+  padding: 0.5em;
 }
 
 .contacto-item {
